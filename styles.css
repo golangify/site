@@ -20,7 +20,7 @@ body {
 body > section {
   color: whitesmoke;
   max-width: 1000px;
-  margin: 10% auto;
+  margin: 0 auto;
   padding: 20px;
   backdrop-filter: blur(10px);
 }
